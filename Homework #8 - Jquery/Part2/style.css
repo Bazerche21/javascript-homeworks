@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+
+#headerText {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#headerColor {
+    font-size: 20px;
+}
+
+#generateBtn {
+    font-size: 20px;
+    margin-top: 20px;
+}
